@@ -1,0 +1,2 @@
+class ETLError(Exception):
+    pass
